@@ -44,7 +44,7 @@ export default function HeroSection() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.6, duration: 0.8 }}
-            className="w-full max-w-md"
+            className="w-full max-w-xl"
           >
             <Searchbar />
           </motion.div>
