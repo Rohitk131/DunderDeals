@@ -20,6 +20,7 @@
     "embla-carousel-react": "^8.3.0",
     "framer-motion": "^11.11.8",
     "lucide-react": "^0.452.0",
+    "mongoose": "^8.7.1",
     "next": "14.2.15",
     "primereact": "^10.8.4",
     "react": "^18",
